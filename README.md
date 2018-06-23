@@ -10,6 +10,8 @@ Demo (Hosted on a free tier AWS account): http://52.43.149.158/weather-app/
 # install dependencies
 npm install
 
+# Copy weather.php file to your localhost and update $api_url on src/main.js accordingly. 
+
 # serve with hot reload at localhost:8080
 npm run dev
 
